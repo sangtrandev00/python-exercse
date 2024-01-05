@@ -1,0 +1,6 @@
+s = input()
+strList = s.split(" ")
+strList.reverse()
+# print(strList)
+# strList.join(" ")
+print(" ".join(strList))

@@ -1,0 +1,1 @@
+print(list('tran nhat sang'))
